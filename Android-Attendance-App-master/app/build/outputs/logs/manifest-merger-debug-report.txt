@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\d843cfbd92ae8a9e8958bdf3700a8042\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4e764f026531ad4ede6624dc6d9489b6\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\efb83f72608e2af0ac9aaaf57fec6e6b\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\2cd2b6ced48c3b74df5e37b1dbd89fc0\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\58f0b682f9750b646039fe3b9ba7b0c1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a8555f4b8f7da49b8e26d71d9ff3fca7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5f7ea3c8c723e4e5fba0f03c9a66adde\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\dfbce072523e4c4b05ac7942e0e9597e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4415469f0a5dda83327e68e76a8fe164\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\ebdf9667f6323f8fabe2b0a54f7a435c\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5a55a110685c755db32b69c8394e700b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4d785f773adfa8d084ba99d1e94c86c2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8da22a2d86c6605a6898abddf2d62c64\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\25f13fa470c468db60b8433e8284fa37\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5255527c0748198a4e848c9ddedb804e\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\27f0ffaf0ac3c8f1aa3d5a8ef24c8707\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a546df49c250abfa21838073f0207413\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\56025a152ea53240f0f9b349bea6f89c\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\7694952d0357eb72a4468156a7315cfd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\bbcca4a5ea4ada970db2e1c49fe16c8e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8018e4cb55ab6616833b08848dbe2b06\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e4127b771c7ebc3c30570d23338d3c13\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\49e58c85bd1f48bef51f04fd9143db2b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\44dce4636e97504df563f62c9fd4ecea\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:7:5-71:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\25f13fa470c468db60b8433e8284fa37\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\25f13fa470c468db60b8433e8284fa37\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:8:10-74
+activity#com.android.attendance.activity.MainActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:14:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:22:10-25:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:23:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:26:10-29:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:27:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:30:10-33:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:31:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:35:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:39:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:43:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:47:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:50:10-53:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:51:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:54:11-57:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:55:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:58:10-61:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:59:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:62:10-65:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:63:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:66:10-69:20
+	android:label
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml:67:13-92
+uses-sdk
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\d843cfbd92ae8a9e8958bdf3700a8042\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\d843cfbd92ae8a9e8958bdf3700a8042\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4e764f026531ad4ede6624dc6d9489b6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4e764f026531ad4ede6624dc6d9489b6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\efb83f72608e2af0ac9aaaf57fec6e6b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\efb83f72608e2af0ac9aaaf57fec6e6b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\2cd2b6ced48c3b74df5e37b1dbd89fc0\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\2cd2b6ced48c3b74df5e37b1dbd89fc0\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\58f0b682f9750b646039fe3b9ba7b0c1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\58f0b682f9750b646039fe3b9ba7b0c1\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a8555f4b8f7da49b8e26d71d9ff3fca7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a8555f4b8f7da49b8e26d71d9ff3fca7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5f7ea3c8c723e4e5fba0f03c9a66adde\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5f7ea3c8c723e4e5fba0f03c9a66adde\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\dfbce072523e4c4b05ac7942e0e9597e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\dfbce072523e4c4b05ac7942e0e9597e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4415469f0a5dda83327e68e76a8fe164\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4415469f0a5dda83327e68e76a8fe164\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\ebdf9667f6323f8fabe2b0a54f7a435c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\ebdf9667f6323f8fabe2b0a54f7a435c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5a55a110685c755db32b69c8394e700b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5a55a110685c755db32b69c8394e700b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4d785f773adfa8d084ba99d1e94c86c2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\4d785f773adfa8d084ba99d1e94c86c2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8da22a2d86c6605a6898abddf2d62c64\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8da22a2d86c6605a6898abddf2d62c64\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e1d29bb9dd094a882a1200aabc8ecc29\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\25f13fa470c468db60b8433e8284fa37\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\25f13fa470c468db60b8433e8284fa37\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5255527c0748198a4e848c9ddedb804e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\5255527c0748198a4e848c9ddedb804e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\27f0ffaf0ac3c8f1aa3d5a8ef24c8707\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\27f0ffaf0ac3c8f1aa3d5a8ef24c8707\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a546df49c250abfa21838073f0207413\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\a546df49c250abfa21838073f0207413\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\56025a152ea53240f0f9b349bea6f89c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\56025a152ea53240f0f9b349bea6f89c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\7694952d0357eb72a4468156a7315cfd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\7694952d0357eb72a4468156a7315cfd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\bbcca4a5ea4ada970db2e1c49fe16c8e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\bbcca4a5ea4ada970db2e1c49fe16c8e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8018e4cb55ab6616833b08848dbe2b06\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\8018e4cb55ab6616833b08848dbe2b06\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e4127b771c7ebc3c30570d23338d3c13\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\e4127b771c7ebc3c30570d23338d3c13\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\49e58c85bd1f48bef51f04fd9143db2b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\49e58c85bd1f48bef51f04fd9143db2b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\44dce4636e97504df563f62c9fd4ecea\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Saurav\.gradle\caches\transforms-2\files-2.1\44dce4636e97504df563f62c9fd4ecea\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saurav\Downloads\Attendance Monitoring System in Android App with Full Source Code\Android-Attendance-App-master\app\src\main\AndroidManifest.xml

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.3.0-beta01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/monitor-1.3.0-beta01.aar/e7ff2819e3f6909005af1be21fc7cb74/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a7f9cc146704ff2e479c123bc867a5/monitor-1.3.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a7f9cc146704ff2e479c123bc867a5/monitor-1.3.0-beta01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a7f9cc146704ff2e479c123bc867a5/monitor-1.3.0-beta01/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0-beta01/3a80466a460e22ec785a9c0ad1a1cbaf6a08c0ee/monitor-1.3.0-beta01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0-beta01/42fd8fe34ba94b2e75f5df0b3184887af6f98670/monitor-1.3.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
